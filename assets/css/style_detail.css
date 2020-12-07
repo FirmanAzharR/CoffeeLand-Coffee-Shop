@@ -483,7 +483,7 @@ ul.kind-item li.item-name {
   }
   .checkout-item {
     position: relative;
-    right: 40%;
+    right: 25%;
   }
   .checkout-item .card {
     width: auto;
@@ -512,11 +512,6 @@ ul.kind-item li.item-name {
     font-size: 15px;
     margin: 10px;
   }
-  .check-out {
-    position: relative;
-    left: 70%;
-    top: 30px;
-  }
   .check-out button {
     padding: 20px;
     font-size: 15px;
@@ -529,6 +524,6 @@ ul.kind-item li.item-name {
   .check-out {
     position: absolute;
     left: 65%;
-    top: 235%;
+    top: 260%;
   }
 }
