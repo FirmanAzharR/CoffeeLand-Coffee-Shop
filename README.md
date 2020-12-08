@@ -2,4 +2,4 @@
 
 link netlify : firman-coffe-shop.netlify.app
 
-untuk responsive baru membuat ukuran mobile 540 px sampai 600 px
+responsive for mobile 540 px - 600 px
